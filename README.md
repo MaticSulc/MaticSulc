@@ -1,5 +1,20 @@
-### Hi there 👋
+### Hey there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaticSulc)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /> Excavator#6626
 
-- 📫 How to reach me: Excavator#6626
+<a href="https://www.linkedin.com/in/maticsulc/">
+  <img align="left" alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+Hi, I'm Matic Šulc, a passionate CS student, Full Stack web developer and trying to be a software engineer 🥺 from Slovenia.  
+
+### Languages and tools:
+* HTML, CSS/SASS, JavaScript, jQuery, Bootstrap
+* PHP, SQL/MongoDB/Firebase
+* C++
+* Node.js
+
+
+[![Matic's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaticSulc)]
+
+
