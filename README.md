@@ -7,6 +7,7 @@ Hi, I'm Matic Šulc, a passionate CS student, Full Stack web developer and tryin
 * PHP, SQL/MongoDB/Firebase
 * C++
 * Node.js
+* MODX, WordPress
 
 ### Contact me:
 * Discord: Excavator#6626
