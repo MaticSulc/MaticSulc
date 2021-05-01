@@ -4,11 +4,11 @@
   <img align="left" alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<span><img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /> Excavator#6626</span>
+<span><img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /> ➡️ Excavator#6626</span>
 
 
 
-</br></br>
+</br>
 
 Hi, I'm Matic Šulc, a passionate CS student, Full Stack web developer and trying to be a software engineer 🥺 from Slovenia.  
 
