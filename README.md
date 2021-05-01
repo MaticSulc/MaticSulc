@@ -10,7 +10,7 @@ Hi, I'm Matic Šulc, a passionate CS student, Full Stack web developer and tryin
 
 ### Contact me:
 * Discord: Excavator#6626
-* <a href="https://www.linkedin.com/in/maticsulc/">
+* LinkedIn: <a href="https://www.linkedin.com/in/maticsulc/">
   <img align="left" alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
