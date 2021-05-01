@@ -17,6 +17,6 @@ Hi, I'm Matic Šulc, a passionate CS student, Full Stack web developer and tryin
 
 </br>
 
-[![Matic's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaticSulc)]
+![Matic's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaticSulc)
 
 
