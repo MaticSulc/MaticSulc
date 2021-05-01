@@ -4,9 +4,6 @@
   <img align="left" alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<span><img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /> ➡️ Excavator#6626</span>
-
-
 
 </br>
 
@@ -18,6 +15,10 @@ Hi, I'm Matic Šulc, a passionate CS student, Full Stack web developer and tryin
 * C++
 * Node.js
 
+### Contact me:
+* Discord: Excavator#6626
+
+</br>
 
 [![Matic's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaticSulc)]
 
