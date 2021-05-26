@@ -5,7 +5,7 @@ Hi, I'm Matic Šulc, a passionate CS student, Full Stack web developer and tryin
 ### Languages and tools:
 * HTML, CSS/SASS, JavaScript, jQuery, Bootstrap
 * PHP, SQL/MongoDB/Firebase
-* C++
+* C/C++
 * Node.js
 * MODX, WordPress
 
