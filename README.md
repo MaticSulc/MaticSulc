@@ -3,12 +3,11 @@
 Hi, I'm Matic Šulc, a passionate CS student, web developer and photographer/light designer from Slovenia.  
 
 ### Languages and tools:
-* HTML, CSS/SASS, JS, jQuery, Bootstrap
-* Vue (I'm trying)
-* PHP, Laravel, SQL/MongoDB/Firebase
-* C/C++/Bash
-* Node.js
-* MODX, WordPress
+* HTML, CSS/SASS, JS, jQuery, Tailwind, Bootstrap
+* React, Vue, NextJS
+* PHP, Laravel, InertiaJS, FilamentPHP, SQL/MongoDB/Firebase
+* C/C++, Python, Java, Kotlin
+* MODX, TYPO3, WordPress
 
 ### Contact me:
 
