@@ -13,8 +13,8 @@ Hi, I'm Matic Šulc, a passionate CS student, web developer and photographer/lig
 ### Contact me:
 
 <p align="left">
-  <a href="https://t.me/Excavator460"><img alt="npm" height="32" width="32" src="https://cdn.simpleicons.org/telegram"></a>
-  <a href="https://www.linkedin.com/in/maticsulc/"><img alt="LinkedIn" height="32" width="32" src="https://cdn.simpleicons.org/linkedin"></a>
+  <a href="https://t.me/Excavator4"><img alt="npm" height="32" width="32" src="https://cdn.simpleicons.org/telegram"></a>
+  <a href="https://www.linkedin.com/in/maticsulc/"><img alt="LinkedIn" height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"></a>
 </p>
 
 </br>
